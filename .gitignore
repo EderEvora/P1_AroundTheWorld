@@ -10,3 +10,5 @@
 *.sln
 *.pidb
 *.suo
+Packages/*.tgz
+Packages/*.tgz
