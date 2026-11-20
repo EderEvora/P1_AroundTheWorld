@@ -8,7 +8,7 @@ public class WeatherAPIScript : MonoBehaviour
 {
     public GameObject weatherTextObject;
         // add your personal API key after APPID= and before &units=
-       string url = "http://api.openweathermap.org/data/2.5/weather?lat=16.89&lon=-24.98&APPID=30300832d5e1d8743474678957fad0ac&units=imperial";
+       string url = "https://api.openweathermap.org/data/2.5/weather?lat=16.89&lon=-24.98&APPID=30300832d5e1d8743474678957fad0ac&units=imperial";
 
    
     void Start()
